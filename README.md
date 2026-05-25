@@ -67,7 +67,7 @@ cd Movie-Recommendation-System
 ### 2. Create virtual environment
 
 ```
-python -m venv venv
+python -m venv .venv
 OR
 py -3.11 -m venv venv  # for python 3.11
 ```
