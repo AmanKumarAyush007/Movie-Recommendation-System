@@ -69,7 +69,7 @@ cd Movie-Recommendation-System
 ```
 python -m venv .venv
 OR
-py -3.11 -m venv venv  # for python 3.11
+py -3.11 -m venv .venv  # for python 3.11
 ```
 
 
@@ -77,12 +77,12 @@ py -3.11 -m venv venv  # for python 3.11
 **Windows:**
 
 ```
-venv\Scripts\activate
+.venv\Scripts\activate
 ```
 
 **Linux/Mac:**
 ```
-source venv/bin/activate
+source .venv/bin/activate
 ```
 
 ### 4. Install dependencies
