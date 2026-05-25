@@ -94,7 +94,7 @@ pip install -r requirements.txt
 
 ## ▶️ Run the Project
 
-### Run Python Script
+### Run FastAPI Backend
 ```
 uvicorn main:app --reload
 ```
