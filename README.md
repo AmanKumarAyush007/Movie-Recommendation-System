@@ -96,7 +96,7 @@ pip install -r requirements.txt
 
 ### Run Python Script
 ```
-python main.py
+uvicorn main:app --reload
 ```
 ### Run Streamlit App  
 ```
